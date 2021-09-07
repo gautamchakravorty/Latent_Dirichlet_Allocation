@@ -33,18 +33,18 @@ The ML model will be developed to serve below purpose:
 
 
 Below are the recommended models evaluated for the purpose:
-          Jaccard Similarity ☹☹☹
-          Different embeddings+ K-means ☹☹
-          Different embeddings+ Cosine Similarity ☹
-          Word2Vec + Smooth Inverse Frequency + Cosine Similarity 😊
-          Different embeddings+LSI + Cosine Similarity ☹
-          Different embeddings+ LDA + Jensen-Shannon distance 😊
-          Different embeddings+ Word Mover Distance 😊😊
-          Different embeddings+ Variational Auto Encoder (VAE) 😊 😊
-          Different embeddings+ Universal sentence encoder 😊😊
-          Different embeddings+ Siamese Manhattan LSTM 😊😊😊
-          BERT embeddings + Cosine Similarity ❤
-          Knowledge-based Measures ❤
+          Jaccard Similarity ☹☹☹, 
+          Different embeddings+ K-means ☹☹, 
+          Different embeddings+ Cosine Similarity ☹, 
+          Word2Vec + Smooth Inverse Frequency + Cosine Similarity 😊, 
+          Different embeddings+LSI + Cosine Similarity ☹, 
+          Different embeddings+ LDA + Jensen-Shannon distance 😊, 
+          Different embeddings+ Word Mover Distance 😊😊, 
+          Different embeddings+ Variational Auto Encoder (VAE) 😊 😊, 
+          Different embeddings+ Universal sentence encoder 😊😊, 
+          Different embeddings+ Siamese Manhattan LSTM 😊😊😊, 
+          BERT embeddings + Cosine Similarity ❤, 
+          Knowledge-based Measures ❤ 
           
           Different embeddings are:
           - Bag of Words (BoW)
