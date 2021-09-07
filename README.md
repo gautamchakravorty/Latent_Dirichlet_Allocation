@@ -32,7 +32,8 @@ The ML model will be developed to serve below purpose:
           Automated closure of ticket, if solved through automation
 
 
-Below are the recommended models evaluated for the purpose:
+Below are the recommended models evaluated for the purpose: 
+
           Jaccard Similarity ☹☹☹, 
           Different embeddings+ K-means ☹☹, 
           Different embeddings+ Cosine Similarity ☹, 
