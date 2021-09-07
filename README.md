@@ -3,7 +3,7 @@ NLP/Topic Modelling
 
 Note: This is a living document and the content may change over time due to progress made.
 
-***********Outcome*************************************************************************************************************************
+*****************************************Outcome*************************************************************************************************************************
 
 Scenario: 
           When a ticket/query is raised by user, near possible matches of previously resolved email documents/tickets will be displayed for reference.
@@ -60,9 +60,14 @@ Below are the recommended models evaluated for the purpose:
 
 
 Next steps:
+
           Research and select model solution - Done
+          
           Create dummy data set with both similar/dissimilar tickets - In Progress
+          
           Evaluate the model on the data set to mark satisfaction
+          
           Proof of Concept
+          
           Implementation
 
