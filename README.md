@@ -45,7 +45,7 @@ Below are the recommended models evaluated for the purpose:
           Different embeddings+ Siamese Manhattan LSTM 😊😊😊
           BERT embeddings + Cosine Similarity ❤
           Knowledge-based Measures ❤
-
+          
           Different embeddings are:
           - Bag of Words (BoW)
           - Term Frequency - Inverse Document Frequency (TF-IDF)
