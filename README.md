@@ -3,11 +3,11 @@ NLP/Topic Modelling
 
 Note: This is a living document and the content may change over time due to progress made.
 
-*****************************************Outcome*************************************************************************************************************************
+*Outcome
 
-Scenario: 
+*Scenario: 
           When a ticket/query is raised by user, near possible matches of previously resolved email documents/tickets will be displayed for reference.
-Benefits: 
+*Benefits: 
           Manual analysis efforts can be saved
           Quicker resolution of the ticket
           Repeatable tickets resolved strategically
@@ -17,14 +17,14 @@ Benefits:
 
 Benefits to be quantified:  SR (%), INC (%) closure via automation.
 
-Solution Draft:
+*Solution Draft:
 
-Data Preparation:
+*Data Preparation:
           Pull the historical data dump of the emails to/from production support email id/email box and setup a scheduled service to pull fresh emails.
           Load cleaned email documents into database.
           Map each email document against the service tickets, if possible.
 
-Modelling:
+*Modelling:
 
 The ML model will be developed to serve below purpose:
           Generate the topics from the document corpus and consolidate similar documents/tickets on the basis of these topics. 
